@@ -1,7 +1,7 @@
 New Presentation
 ================
 
-_Boilerplate for Markdown-based presentations using [Remark](http://remarkjs.com)._
+Boilerplate for Markdown-based presentations using [Remark](http://remarkjs.com)
 
 - ** GitHub repository **: <https://github.com/barberboy/new-presentation>
 - ** Presentation view **: <https://barberboy.github.io/new-presentation>
@@ -11,6 +11,7 @@ _Boilerplate for Markdown-based presentations using [Remark](http://remarkjs.com
 ## How to Use
 
 1. Clone this repository:
+
    ```sh
    git clone --origin boilerplate https://github.com/barberboy/new-presentation
    cd new-presentation
@@ -26,6 +27,7 @@ _Boilerplate for Markdown-based presentations using [Remark](http://remarkjs.com
 
 1. Visit <https://github.com/new> to create your repository. Do not choose the "Initialize this repository with a README" option.
 2. Back on your computer, add the new repo as `origin`, and push to the **`gh-pages`** branch:
+
    ```sh
    git remote add origin https://github.com/USERNAME/REPOSITORY.git
    git push -u origin gh-pages
