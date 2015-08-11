@@ -3,8 +3,8 @@ New Presentation
 
 Boilerplate for Markdown-based presentations using [Remark](http://remarkjs.com)
 
-- ** GitHub repository **: <https://github.com/barberboy/new-presentation>
-- ** Presentation view **: <https://barberboy.github.io/new-presentation>
+- **GitHub repository**: <https://github.com/barberboy/new-presentation>
+- **Presentation view**: <https://barberboy.github.io/new-presentation>
 
 ---
 
